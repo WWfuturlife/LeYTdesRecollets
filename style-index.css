@@ -1,0 +1,57 @@
+
+header{
+	background: #E8AFA0;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+
+nav.nav_1 ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+	padding-left: 15px;
+}
+
+nav.nav_1 ul li a{
+	color: white;
+	text-decoration: none;
+	border: 1px solid white;
+}
+
+nav.nav_1 ul li:hover a{
+	color : #79377B;
+	background: white;
+	transition: 1.0s;
+}
+
+h2{
+	padding: 55px;
+}
+
+footer{
+	background: #729179;
+}
+
+nav.footernav ul li a{
+	color: white;
+	text-decoration: none;
+	border: 1px solid white
+}
+
+nav.footernav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+	padding-left: 15px;
+}
+
+nav.footernav ul li:hover a{
+	color : white;
+	background: #729179;
+	transition: 1.0s;
+}
